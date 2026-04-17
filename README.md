@@ -24,3 +24,6 @@ npm install
 
 ```sh
 npm run dev
+
+Type-Check, Compile and Minify for Production
+npm run build
